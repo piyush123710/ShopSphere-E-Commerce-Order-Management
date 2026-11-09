@@ -1,0 +1,6 @@
+{
+  "name": "ShopSphere – E-Commerce & Order Management",
+  "description": "Enterprise-grade e-commerce storefront with customer shopping, payment gateway checkout, live order tracking, invoice generation, and admin inventory & sales analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
